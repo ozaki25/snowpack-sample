@@ -6,7 +6,8 @@
     "test": "echo \"This template does not include a test runner by default.\" && exit 1"
   },
   "webDependencies": {
-    "canvas-confetti": "^1.2.0"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
